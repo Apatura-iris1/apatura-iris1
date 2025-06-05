@@ -1,3 +1,3 @@
-- MSc Bioinformatics Student 🤓
+- MSc Bioinformatics Student 
 - Currently learning Python & R 🐍
-- Interested in genomics, structural biochemistry & pharmacology 💉🧬
+- Interested in structural biochemistry and vaccine design 💉
