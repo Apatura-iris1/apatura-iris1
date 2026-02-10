@@ -1,3 +1,4 @@
-- MSc Bioinformatics Student 
-- Currently learning Python & R 🐍
-- Interested in structural biochemistry and vaccine design 💉
+- Bioinformatics 
+- Specialised Research Tehcnician
+- Structural Biochemistry
+- CryoEM
