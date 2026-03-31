@@ -1,4 +1,4 @@
 - Bioinformatics 
-- Specialised Research Tehcnician
+- Specialised Research Technician
 - Structural Biochemistry
 - CryoEM
