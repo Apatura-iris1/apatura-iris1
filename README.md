@@ -1,4 +1,1 @@
-- Bioinformatics 
-- Specialised Research Technician
-- Structural Biochemistry
-- CryoEM
+- I work with proteins
